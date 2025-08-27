@@ -1,3 +1,4 @@
+```mermaid
 graph TB
     subgraph "Message Broker (RabbitMQ)"
         Producer1["Produtor 1<br/>Sistema A"]
@@ -36,3 +37,4 @@ graph TB
     style Queue1 fill:#f3e5f5
     style Queue2 fill:#f3e5f5
     style Queue3 fill:#f3e5f5
+```
